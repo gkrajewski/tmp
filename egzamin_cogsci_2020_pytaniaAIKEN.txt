@@ -1,0 +1,272 @@
+1
+The smaller the p value, the stronger evidence against the null hypothesis it is. Which approach to statistical inference does hold
+this view?
+A) Fisher's approach
+B) Neyman-Pearson approach
+C) Bayesian approach
+D) None of them
+ANWER: A
+
+2
+Which of these statements is true?
+A) Significance level alpha gives the probability of the alternative hypothesis
+B) p value gives the probability of the alternative hypothesis
+C) p value gives the probability of the null hypothesis
+D) None of them
+ANWER: D
+
+3
+Which of these statements is true?
+A) Beta gives the probability of not rejecting the null hypothesis, when it is true.
+B) Beta gives the probability of rejecting the null hypothesis, when it is true.
+C) Beta gives the probability of not rejecting the null hypothesis, when it is false.
+D) Beta gives the probability of rejecting the null hypothesis, when it is false.
+ANWER: C
+
+4
+Power of a test comparing two means depends on:
+A) population variance
+B) sample size
+C) size of the effect (i.e., difference between the means in the population
+D) All of them
+ANWER: D
+
+5
+Two means were compared using t test and p value of .04 was obtained. It means that:
+A) it is impossible to tell the probability of the alternative hypothesis
+B) probability of obtaining a significant result is 96% (assuming that we can repeat the experiment infinite number of times)
+C) probability of obtaining the difference we observe given the nullhypothesis is 4%
+D) probability of the null hypothesis (no difference between the means on the population level) is 4%
+ANWER: A
+
+6
+Bonferroni correction may be used when multiple statistical tests are conducted simultaneously. It consists in dividing alpha by a certain value of k, where k is:
+A) the number of experimental conditions
+B) the number of statistical tests conducted
+C) the sample size minus 1
+D) the number of statistical tests that turned out significant
+ANWER: B
+
+7
+Patients suffering from left hemineglect 
+A) have impaired processes of mental addition
+B) ignore right side of their attentional space
+C) shift toward smaller numbers when bisecting numerical interval
+D) shift toward larger numbers when bisecting numerical interval
+ANWER: D
+
+8
+In the Knops' et al. (2009) experiment, the classifier (linear support vector machine) was trained 
+A) to discriminate between leftward and rightward saccades
+B) using whole-brain resting state fMRI scnas
+C) to discriminate between addition and subtraction
+D) using images containing a varied number of objects 
+ANWER: A
+
+9
+When tested with scans of bilateral posterior superior parietal lobule (PSPL) activity during arithmetic calculations the classifier (linear support vector machine) in the Knops' et al. (2009) experiment
+A) classified addition as rightward saccades with probability well above the chance level 
+B) classified subtraction as rightward saccades with probability well above the chance level
+C) classified right PSPL activations as addition
+D) classified right PSPL activations as subtraction
+ANWER: A
+
+10
+The results of Knops' et al. (2009) study suggest that 
+A) non-symbolic and symbolic arithmetic recruit separate areas in the human brain
+B) arithmetic can only be done reliably by people trained at school 
+C) mental calculation is independent of spatial-attentional processes
+D) arithmetic recruits “recycled” neural circuits originally dictated to eye movement control
+ANWER: D
+
+11
+The basic assumption of the iCub project was that the construction of cognitive systems could not progress without 
+A) the study of natural cognition 
+B) the study of the development of cognition
+C) the study of action in humans by using neuroscience methods
+D) all three options are correct 
+ANWER: D
+
+12
+One of the mechanisms for controlling attention in the iCub architecture is 
+A) eye–neck coordination 
+B) blocking of tracking objects behind occlusions 
+C) generic inverse kinematics model 
+D) the mirror system
+ANWER: A
+
+13
+iCub can develop the ability to learn the affordances of objects 
+A) using abstract, non-embodied knowledge of object
+B) by linking motor information to the descriptions of perceptual quantities, using Bayesian Networks 
+C) by dedicated modular subsystems
+D) all three options are correct
+ANWER: B
+
+14
+iCub architecture should enable the development of imitation system and communication gestures. Analyzing the results of neuroscientific research that could contribute to the solution, it was noted that 
+A) listening to speech recruits a network of fronto-temporoparietal cortical areas 
+B) anterior (frontal/motor) sites are involved in speech production whereas posterior (temporoparietal) sites are involved in comprehension 
+C) congenitally blind people engage visual cortex in speech perception
+D) motor circuits play no role in the perception of speech 
+ANWER: A
+
+15
+Cognitive science is an interdisciplinary endeavor, therefore 
+A) linguistics develop abstract models of linguistic competence while psychology of language investigates the mechanisms that make possible the performance of language users, starting with the linguistic models
+B) models of language developed in linguistics and knowledge of the brain underpinnings of language are incomparable because they refer to different methodologies and different conceptual systems 
+C) anthropology is not part of cognitive science because it explores the cultural specificity of cognition, not the cognitive features shared by all people 
+D) all artificial intelligence models must be based on detailed knowledge of brain function 
+ANWER: A
+
+16
+The psychological and neuroscientific explanation of cognitive behavior involve many different levels, as illustrated in the Shepherd diagram (1993). The level of neuroscientific explanation that is easiest to linked to the level of mental object representations (mental processing of information about objects) is
+A) local circuits (neuronal populations) level
+B) single neuron level
+C) synaptic response level
+D) microcircuits level
+ANWER: A
+
+17
+The ultimate goal for cognitive science as a field of study may be
+A) unified account of cognition that draws upon and integrates the whole space of sub-domains
+B) to reduce explanation of cognitive processes to physical processes in the brain or computer 
+C) unification of the methodology of research on cognition 
+D) explanation of cognition in terms of contingencies between the state of the environment and reactions of the system
+ANWER: A
+
+18
+Mirror neurons were discovered with the use of:
+A) fMRI
+B) single-unit recording
+C) EEG
+D) PET
+ANWER: B
+
+19
+What is a strength of EEG?
+A) good spatial resolution
+B) good temporal resolution
+C) it measures blood flow directly
+D) it enables to identify a network of areas that are simultaneously active when certain tasks are performed
+ANWER: B
+
+20
+The term functional connectivity:
+A) describes statistical correlations between levels of activity in physically separate parts of the brain
+B) describes a causal model of the interactions between the elements of the neural system of interest
+C) is measured with DTI
+D) all answers are correct
+ANWER: A
+
+21
+Why autism as a disorder is particularly interesting for cognitive scientists?
+A) It is suspected to be strongly of genetic origin
+B) Its genetic basis remains poorly understood
+C) Children with ASD suffer from sensory and motor problems in addition to language difficulties
+D) Social and communicative problems are usually not accompanied by general cognitive impairment
+ANWER: D
+
+22
+Autistic children’s difficulties with pretend play
+A) result from a deficit in metarepresentation
+B) have different cause than a mindreading deficit
+C) are usually accompanied by general cognitive impairment
+D) are less common than sensory problems
+ANWER: A
+
+23
+Implicit understanding of false belief:
+A) might be measured with looking time paradigm
+B) is present in autistic children in contrast to explicit theory of mind 
+C) is a mechanism that allows the infant to identify purposeful movements
+D) all answers are correct
+ANWER: A
+
+24 OK
+The main drawback of neural networks in comparison to classic symbolic models is that:
+A) They lack separable and recombinable components, which would allow formal syntactic operations on symbols.
+B) They are cannot be programmed by hand, but learn from data.
+C) They explain only computational level of information-processing, without tackling the algorithmic and implementational level from Marr’s hierarchy.
+D) They have complex structure, which is hard to implement programmatically.
+ANWER: A
+
+25 ZMIENIONE
+Backpropagation in neural networks:
+A) Allow operations in two directions, making input and output fully symmetrical.
+B) Makes adjustments to synaptic weights proportional to their amount of influence on network errors.
+C) Is biologically realistic, since biological synapses also propagate signals in two directions.
+D) Can be used only in single-layer neural networks.
+ANWER: B
+
+26 ZMIENIONE
+Recurrent neural networks:
+A) Perform complex computation without hidden units.
+B) Propagate multiple input signals through the network at once.
+C) Use network’s state from previous step as part of an input in the next step.
+D) Are constructed in a recurrent manner, where the same set of weights appears multiple times in the network.
+ANWER: C
+
+27 ZMIENIONE
+What is the difference between behavior-based robots and purely reactive robots?
+A) Behavior-based robotics is strictly non-representational, while in robots using reactive rules some representations are allowed.
+B) Behavior-based robots actively attempt to achieve certain goals.
+C) Behavior-based robots are more biologically inspired.
+D) Reactive robots follow the postulates of embodied cognition, while behavior-based robots use classic symbolic architectures.
+ANWER: B
+
+28 ZMIENIONE
+Dynamical systems models of cognition are typically characterized by:
+A) modularity -- models have many components realizing specific functions, which pass information to other components,
+B) sequential processing -- cognition is realized as a series of subsequent steps,
+C) continuous nature -- lack of a priori distinguished discrete entities within the model,
+D) computational metaphor -- models are inspired by the architecture of digital computers.
+ANWER: C
+
+29
+Turing’s model of computation:
+A) assumes that latent learning is possible
+B) illustrates the idea of a purely mechanical way of processing information
+C) explains why chunking information can affect how much information can be stored in memory
+D) explains how information flows through the cognitive system
+ANWER: B
+
+30
+Winograd’s SHRDLU is a computer programme that not only tries to simulate conversation but also is capable of using language to report on its environment. It also:
+A) can understand the pragmatics of conversation
+B) is based on the assumption that understanding language is an algorithmic process
+C) is a general-purpose chatterbot programme
+D) creates the illusion of conversation by rephrasing statements as questions and by giving certain fixed responses where this was not possible
+ANWER: B
+
+31
+The David Marr’s model of human visual system:
+A) is a model of bottom-up analysis
+B) assumes the existence of four levels of visual information processing: the perceptual, the implementational, the algorithmic and the computational one
+C) assumes that the primal sketch represents information about the depth and orientation of visible surfaces
+D) assumes that the viewer-independent representation of object and size is provided by the 3D sketch
+ANWER: D
+
+32
+The sentences I ate the strawberry pie and The strawberry pie was eaten by me: 
+A) have the same deep structure. 
+B) have the same phrase structure tree. 
+C) have the same surface structure. 
+D) None of the sentence is correct
+ANWER: A
+
+33
+Cognitive systems can be understood as functional systems because certain types of mental activity: 
+A) can be carried out by different neural structures as specific neuronal circuits can change their function
+B) can be carried out by each hemisphere independently
+C) can be tested by many different cognitive tasks
+D) can have neural net organization
+ANWER: A
+
+34
+Information relevant to recognizing and identifying objects:
+A) follows a dorsal route.
+B) follows a ventral route.
+C) goes from primary visual cortex to the posterior parietal lobe.
+D) ends in the prestriate cortex.
+ANWER: B

@@ -1,0 +1,41 @@
+Which of these statements is true?
+A) Significance level alpha gives the probability of the alternative hypothesis
+B) p value gives the probability of the alternative hypothesis
+C) p value gives the probability of the null hypothesis
+D) None of them
+ANSWER: D
+
+Power of a test comparing two means depends on:
+A) population variance
+B) sample size
+C) size of the effect (i.e., difference between the means in the population)
+D) All of them
+ANSWER: D
+
+Two means were compared using t test and p value of .04 was obtained. It means that:
+A) it is impossible to tell the probability of the alternative hypothesis
+B) probability of obtaining a significant result is 96% (assuming that we can repeat the experiment infinite number of times)
+C) probability of obtaining the difference we observe given the nullhypothesis is 4%
+D) probability of the null hypothesis (no difference between the means on the population level) is 4%
+ANSWER: A
+
+Below you will find a number of statements which can be connected to one of the arguments against the classical statistical inference. Which of these statements is true?
+A) By testing (trying to reject) a point null hypothesis, we tend to focus on alternative hypotheses that are weak and lacking precision and content.
+B) Hypothesis "μ1 < μ2" is weaker than hypothesis "μ1 ≠ μ2".
+C) A point null hypothesis is almost certainly true (given an appropriate level of precision).
+D) None of them.
+ANSWER: A
+
+Bonferroni correction may be used when multiple statistical tests are conducted simultaneously. It consists in dividing alpha by a certain value of k, where k is:
+A) the number of experimental conditions
+B) the number of statistical tests conducted
+C) the sample size minus 1
+D) the number of statistical tests that turned out significant
+ANSWER: B
+
+Which of these statements is true?
+A) If a given scientific journal accepts for publication papers with results significant at the alpha level .05 only, then around 5% of the papers published in the journal present false results.
+B) The probability that the 95% confidence interval calculated around a particular sample mean includes the true population mean is 95%.
+C) A relatively narrow confidence interval, when the result is non-significant, suggests that the test was not sensitive enough.
+D) Six studies comparing mean intelligence in two different populations were conducted. Each time the same direction of the difference was observed but none of the observed differences were significant. Nevertheless there is a good reason to reject the null hypothesis (about lack of the difference)
+ANSWER: D

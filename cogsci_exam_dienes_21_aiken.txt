@@ -1,0 +1,89 @@
+### Old:
+
+The smaller the p value, the stronger evidence against the null hypothesis it is. Which approach to statistical inference does hold this view?
+A) Fisher's approach
+B) Neyman-Pearson approach
+C) Bayesian approach
+D) None of them
+ANSWER: A
+
+Which of these statements is true?
+A) Significance level alpha gives the probability of the alternative hypothesis
+B) p value gives the probability of the alternative hypothesis
+C) p value gives the probability of the null hypothesis
+D) None of them
+ANSWER: D
+
+Which of these statements is true?
+A) Beta gives the probability of not rejecting the null hypothesis, when it is true.
+B) Beta gives the probability of rejecting the null hypothesis, when it is true.
+C) Beta gives the probability of not rejecting the null hypothesis, when it is false.
+D) Beta gives the probability of rejecting the null hypothesis, when it is false.
+ANSWER: C
+
+Power of a test comparing two means depends on:
+A) population variance
+B) sample size
+C) size of the effect (i.e., difference between the means in the population)
+D) All of them
+ANSWER: D
+
+Two means were compared using t test and p value of .04 was obtained. It means that:
+A) it is impossible to tell the probability of the alternative hypothesis
+B) probability of obtaining a significant result is 96% (assuming that we can repeat the experiment infinite number of times)
+C) probability of obtaining the difference we observe given the nullhypothesis is 4%
+D) probability of the null hypothesis (no difference between the means on the population level) is 4%
+ANSWER: A
+
+Bonferroni correction may be used when multiple statistical tests are conducted simultaneously. It consists in dividing alpha by a certain value of k, where k is:
+A) the number of experimental conditions
+B) the number of statistical tests conducted
+C) the sample size minus 1
+D) the number of statistical tests that turned out significant
+ANSWER: B
+
+### Modified
+
+Which of these statements is true?
+A) p value gives the probability of the alternative hypothesis
+B) Significance level alpha gives the probability of the alternative hypothesis
+C) Significance level alpha gives the probability of the null hypothesis
+D) None of them
+ANSWER: D
+
+Which of these statements about the significance level alpha is true?
+A) Alpha gives the probability of not rejecting the null hypothesis, when it is true.
+B) Alpha gives the probability of rejecting the null hypothesis, when it is true.
+C) Alpha gives the probability of not rejecting the null hypothesis, when it is false.
+D) Alpha gives the probability of rejecting the null hypothesis, when it is false.
+ANSWER: B
+
+Two means were compared using t test and p value of .025 was obtained. In such a case:
+A) it is impossible to tell the probability of the alternative hypothesis
+B) probability of obtaining a significant result is 97.5% (assuming that we can repeat the experiment infinite number of times)
+C) probability of obtaining the difference we observe given the null hypothesis is 2.5%
+D) probability of the null hypothesis (no difference between the means on the population level) is 2.5%
+ANSWER: A
+
+### New
+
+Below you will find a number of statements which can be connected to one of the arguments against the classical statistical inference. Which of these statements is true?
+A) By testing (trying to reject) a point null hypothesis, we tend to focus on alternative hypotheses that are weak and lacking precision and content.
+B) Hypothesis "μ1 < μ2" is weaker than hypothesis "μ1 ≠ μ2".
+C) A point null hypothesis almost certainly true (given an appropriate level of precision).
+D) None of them.
+ANSWER: A
+
+Which of these statements about different approaches to statistical inference is true?
+A) In the Neyman-Pearson approach the exact p value obtained matters, not just whether it is below the alpha level or not.
+B) The Neyman-Pearson approach is based on the objective interpretation of probability.
+C) The Fisherian approach is based on the subjective interpretation of probability.
+D) In the Fisherian approach the exact p value does not matter, only whether it is below the alpha level or not.
+ANSWER: B
+
+Which of these statements is true?
+A) If a given scientific journal accepts for publication papers with results significant at the alpha level .05 only, then around 5% of the papers published in the journal present false results.
+B) The probability that the 95% confidence interval calculated around a particular sample mean includes the true population mean is 95%.
+C) A relatively wide confidence interval, when the result is non-significant, suggests that the test was not sensitive enough.
+D) Six studies comparing mean intelligence in two different populations were conducted. Each time the same direction of the difference was observed. However, none of the observed differences were significant. Therefore there is no reason to reject the null hypothesis (about lack of the difference)
+ANSWER: C
